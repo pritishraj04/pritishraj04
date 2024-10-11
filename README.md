@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @pritishraj04
-- 👀 I’m interested in websites.
-- 🌱 I’m currently learning REACT.
-- 💞️ I’m looking to collaborate on JS.
-- 📫 How to reach me Email: pritishraj04@gmail.com 
+### Hello, I'm @pritishraj04
 
-<!---
-pritishraj04/pritishraj04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With years of experience in software development, I specialize in architecting robust, scalable web applications. My focus is on modern frameworks like **Svelte** and **Tailwind CSS**, ensuring efficient and maintainable codebases.
+
+I’m open to collaboration on complex **JavaScript** projects and API-driven architectures. Currently, my work includes dynamic menu systems and API optimization for e-commerce platforms.
+
+For any inquiries, reach me at **pritishraj04@gmail.com**.
